@@ -1,4 +1,4 @@
-# Recursive Skip-step Planning
+# **R**ecursive **S**kip-Step **P**lanning (**RSP**)
 
 This repository contains the implementation of Recursive Skip-step Planning in JAX.
 
