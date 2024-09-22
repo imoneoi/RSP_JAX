@@ -45,3 +45,13 @@ This report will be saved in `report.md`.
 ## License
 
 Apache License 2.0
+
+## Citation
+```
+@inproceedings{wang_niu2024rsp,
+          title={Are Expressive Models Truly Necessary for Offline RL?},
+          author={Wang, Guan and Niu, Haoyi and Li, Jianxiong and Jiang, Li and Hu, Jianming and Zhan, Xianyuan},
+          booktitle={Under Review},
+          year={2024}
+        }
+```
