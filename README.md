@@ -1,7 +1,6 @@
 # Recursive Skip-Step Planning (RSP)
 
-This repository is the official implementation of Recursive Skip-step Planning in JAX, attached with the paper entitled "Are Expressive Models Truly Necessary for Offline RL?
-".
+This repository is the official implementation of Recursive Skip-step Planning in JAX, attached with the paper entitled [Are Expressive Models Truly Necessary for Offline RL?](https://openreview.net/forum?id=19KvVggjVr).
 
 ## Getting Started
 
@@ -48,10 +47,12 @@ Apache License 2.0
 
 ## Citation
 ```
-@inproceedings{wang_niu2024rsp,
-          title={Are Expressive Models Truly Necessary for Offline RL?},
-          author={Wang, Guan and Niu, Haoyi and Li, Jianxiong and Jiang, Li and Hu, Jianming and Zhan, Xianyuan},
-          booktitle={Under Review},
-          year={2024}
-        }
+@inproceedings{
+          wang2024are,
+          title={Are Expressive Models Truly Necessary for Offline {RL}?},
+          author={Guan Wang and Haoyi Niu and Jianxiong Li and Li Jiang and Jianming HU and Xianyuan Zhan},
+          booktitle={NeurIPS 2024 Workshop on Open-World Agents},
+          year={2024},
+          url={https://openreview.net/forum?id=19KvVggjVr}
+}
 ```
