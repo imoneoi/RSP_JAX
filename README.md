@@ -48,7 +48,7 @@ Apache License 2.0
 ## Citation
 ```
 @inproceedings{
-          wang2024are,
+          wang-niu2024rsp,
           title={Are Expressive Models Truly Necessary for Offline {RL}?},
           author={Guan Wang and Haoyi Niu and Jianxiong Li and Li Jiang and Jianming HU and Xianyuan Zhan},
           booktitle={NeurIPS 2024 Workshop on Open-World Agents},
